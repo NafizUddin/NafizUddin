@@ -1,7 +1,6 @@
 ![](https://i.postimg.cc/mkm7jXwY/github-header-image.png)
 # Hi there 👋, I'm Mohammed Nafiz Uddin
 
-
 A passionate learner diving into the world of MERN stack development. Currently navigating the intricacies of React, MongoDB, Express.js and Node.js, I'm on a quest to master the art of building dynamic web applications. Fueled by a passion for problem-solving and a commitment to continuous learning, I'm turning lines of code into functional, elegant solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NafizUddin&label=Profile%20views&color=0e75b6&style=flat" alt="nafizuddin" /> </p>
@@ -27,7 +26,6 @@ A passionate learner diving into the world of MERN stack development. Currently 
 <a href="https://twitter.com/NafizUddin161"><img height="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;</p>
 
 ## 📝Current Statistics
-
 <br/>
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=NafizUddin&" alt="nafizuddin" />
