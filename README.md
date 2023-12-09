@@ -4,6 +4,8 @@
 
 A passionate learner diving into the world of MERN stack development. Currently navigating the intricacies of React, MongoDB, Express.js and Node.js, I'm on a quest to master the art of building dynamic web applications. Fueled by a passion for problem-solving and a commitment to continuous learning, I'm turning lines of code into functional, elegant solutions.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NafizUddin&show_icons=true&count_private=true)  
+
 ## 📝Current overview
 
 - 🌱 I’m currently learning advanced React concepts, Next.js and exploring ways to optimize backend performance in my MERN projects. 
