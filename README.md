@@ -4,7 +4,7 @@
 
 A passionate learner diving into the world of MERN stack development. Currently navigating the intricacies of React, MongoDB, Express.js and Node.js, I'm on a quest to master the art of building dynamic web applications. Fueled by a passion for problem-solving and a commitment to continuous learning, I'm turning lines of code into functional, elegant solutions.
 
-📝 ## Current overview
+## 📝Current overview
 
 - 🌱 I’m currently learning advanced React concepts, Next.js and exploring ways to optimize backend performance in my MERN projects. 
 - 👯 I’m looking to collaborate on open source projects related to web development or any interesting MERN stack projects that involve innovative solutions. 
